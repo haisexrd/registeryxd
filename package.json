@@ -1,0 +1,19 @@
+{
+  "name": "register",
+  "version": "0.0.1",
+  "description": "haise",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haise :>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "plasma-db": "^1.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
